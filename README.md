@@ -51,3 +51,31 @@ These instructions will get you a copy of the project up and running on your loc
 - [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) - Develop, deploy, and debug Kubernetes applications.
 - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell) - Develop PowerShell scripts in VS Code.
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - Connect to any location by opening folders on a remote machine/VM using SSH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br/>
+<br/>
+
+### test package not used
+- [npm-check](https://www.npmjs.com/package/npm-check) - Check for outdated, incorrect, and unused dependencies.
+- [depcheck](https://www.npmjs.com/package/depcheck) - Depcheck is a tool for analyzing the dependencies in a project to see: how each dependency is used, which dependencies are useless, and which dependencies are missing from package.json.
